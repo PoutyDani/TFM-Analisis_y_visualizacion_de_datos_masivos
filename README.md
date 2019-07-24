@@ -7,3 +7,11 @@
 - **Autor:** Daniel Díaz Ríos
 - **Director:** Ignacio Javier Pérez Gálvez
 - **Fecha:** 26 de Julio de 2019
+
+### Tests
+
+Batería de tests unitarios realizados con la librería `unittest`, ubicados en el directorio `tests`.
+
+- **Modo de ejecución:** `python -m unittest discover -s tests` sobre el directorio raíz.
+
+> Hay que tener en cuenta que los tests se deben ejecutar con el repositorio en su estado inicial, esto es, sin ningún directorio ni fichero temporal, y la colección de la base de datos vacía.
